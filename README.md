@@ -1,5 +1,5 @@
 # SimpleMutex
 Simple Mutex Lock In C
 
-gcc -pthread SimpleMutex deneme.c
+gcc -pthread -o SimpleMutex deneme.c
 ./SimpleMutex
